@@ -1,1 +1,0 @@
-# Templo-Natural-guas-de-Oxum
