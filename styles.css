@@ -24,7 +24,7 @@
             margin: 0;
             display: flex;
             flex-direction: column;
-            align-items: center; /* Centraliza os links */
+            align-items: left; /* coloca os links na esquerda */
             padding: 0;
         }
         nav ul li {
