@@ -1,4 +1,4 @@
 function mostrarMensagem() 
 {
-    document.getElementById("mensagem").innerText = "Botão clicado!";
+    document.getElementById("mensagem").innerText = "Se acalme célia";
 }
